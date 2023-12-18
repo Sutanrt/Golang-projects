@@ -1,0 +1,19 @@
+Kasus Servis Motor
+
+Anggota :
+1.Sutan Rifky Tedjasukmana (1301223465)
+  Peran:
+  Membuat kerangka awal 
+  Membuat user interface
+  Mengerjakan spesifikasi kasus servis motor 1 dan 2 (Menambah,Mengubah,dan Menghapus Data dari servis motor)
+  Debugging
+
+2.Eka Setyanto Harsono (1301223485)
+  Peran :
+  Mengerjakan spesifikasi kasus servis motor 3 dan 4 (mencari data pelanggan berdasarkan spare part atau waktu tertentu,mengurutkan data sparepart berdasarkan banyak yang telah digunakan)
+  Debugging
+
+
+
+
+
